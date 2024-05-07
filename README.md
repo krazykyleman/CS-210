@@ -1,4 +1,4 @@
-# CS-210-Kyle-W
+# Customizable Digital Clock Application - Kyle W.
 
 
 Summarize the project and what problem it was solving.
